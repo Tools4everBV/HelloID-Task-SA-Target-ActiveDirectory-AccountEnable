@@ -21,7 +21,7 @@ This code snippet will enable a user within Active Directory and executes the fo
 }
 ```
 
-> :exclamation: It is important to note that the names of your form fields might differ. Ensure that the `$formObject` hash table is appropriately adjusted to match your form fields.
+> :exclamation: It is important to note that the names of your form fields might differ. Ensure that the `$formObject` hash table is appropriately adjusted to match your form fields.  [See the Microsoft Docs page](https://learn.microsoft.com/en-us/powershell/module/activedirectory/enable-adaccount?view=windowsserver2022-ps)
 
 2. Imports the ActiveDirectory module.
 
